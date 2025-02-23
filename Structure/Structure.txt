@@ -1,1 +1,8 @@
+23rd Feb 2025
+Our Projects need to handle this to works on following aspects 4 causes
+1.Activity Monitoring (High Priority)
+2.Activity Categorisation
+3.Summarisation Logic 
+4.Tweet  Integrations
 
+Project Deadiline-: 29 March 2024s
